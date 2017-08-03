@@ -1,0 +1,12 @@
+c:\users\hamid\documents\visual studio 2017\Projects\xUnitSandbox\xUnitSandbox\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\hamid\documents\visual studio 2017\Projects\xUnitSandbox\xUnitSandbox\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+c:\users\hamid\documents\visual studio 2017\Projects\xUnitSandbox\xUnitSandbox\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+c:\users\hamid\documents\visual studio 2017\Projects\xUnitSandbox\xUnitSandbox\bin\Debug\netcoreapp1.1\xUnitSandbox.deps.json
+c:\users\hamid\documents\visual studio 2017\Projects\xUnitSandbox\xUnitSandbox\bin\Debug\netcoreapp1.1\xUnitSandbox.runtimeconfig.json
+c:\users\hamid\documents\visual studio 2017\Projects\xUnitSandbox\xUnitSandbox\bin\Debug\netcoreapp1.1\xUnitSandbox.runtimeconfig.dev.json
+c:\users\hamid\documents\visual studio 2017\Projects\xUnitSandbox\xUnitSandbox\bin\Debug\netcoreapp1.1\xUnitSandbox.dll
+c:\users\hamid\documents\visual studio 2017\Projects\xUnitSandbox\xUnitSandbox\obj\Debug\netcoreapp1.1\xUnitSandbox.csprojResolveAssemblyReference.cache
+c:\users\hamid\documents\visual studio 2017\Projects\xUnitSandbox\xUnitSandbox\obj\Debug\netcoreapp1.1\xUnitSandbox.AssemblyInfo.cs
+c:\users\hamid\documents\visual studio 2017\Projects\xUnitSandbox\xUnitSandbox\bin\Debug\netcoreapp1.1\xUnitSandbox.pdb
+c:\users\hamid\documents\visual studio 2017\Projects\xUnitSandbox\xUnitSandbox\obj\Debug\netcoreapp1.1\xUnitSandbox.dll
+c:\users\hamid\documents\visual studio 2017\Projects\xUnitSandbox\xUnitSandbox\obj\Debug\netcoreapp1.1\xUnitSandbox.pdb
